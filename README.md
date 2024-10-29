@@ -1,0 +1,1 @@
+This project will be a Recipes page. It will help me to practice all the HTML concepts I have learned so far such as lists, images, links.
